@@ -1,8 +1,8 @@
 {
-  "name": "AFK Bot",
+  "name": "NinteAchan",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "NinteAchan",
+    "password": "Achan",
     "type": "offline"
   },
   "server": {
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -99,
+    "y": 73,
+    "z": -798
   },
   "utils": {
     "auto-auth": {
