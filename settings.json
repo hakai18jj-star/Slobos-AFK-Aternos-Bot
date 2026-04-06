@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Kameshiki.aternos.me",
+    "ip": "Kameshiki.aternos.me:59965",
     "port": 59965,
     "version": "1.21.11",
     "try-creative": false
